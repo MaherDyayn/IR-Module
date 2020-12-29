@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+C:\Users\maher\Desktop\Arduino\IR_module\PCB_IR\Project Outputs for Free Documents\Pick Place\Pick Place for IR_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28-12-20
+Time:       17:29
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator    Comment     Layer    Footprint            Center-X(mil) Center-Y(mil) Rotation Description                    
+TSOP38233x2   TSOP38233   TopLayer IR                   6700.000      4250.000      90       "IR Receivers"                 
+TSOP38233x1   TSOP38233   TopLayer IR                   6700.000      4700.000      270      "IR Receivers"                 
+SN74LVC1G14x4 SN74LVC1G14 TopLayer not_gate             6321.713      4214.575      180      "Single Schmitt-inverter(NOT)" 
+SN74LVC1G14x3 ""          TopLayer not_gate             6621.713      3734.575      180      "Single Schmitt-inverter(NOT)" 
+SN74LVC1G14x2 SN74LVC1G14 TopLayer not_gate             6600.001      3911.287      270      "Single Schmitt-inverter(NOT)" 
+SN74LVC1G14x1 ""          TopLayer not_gate             6780.001      3911.287      270      "Single Schmitt-inverter(NOT)" 
+SN74LVC1G08x4 SN74LVC1G08 TopLayer AND_gate             6254.000      3913.750      270      "IC SNGL AND"                  
+SN74LVC1G08x3 ""          TopLayer AND_gate             6254.000      3733.750      270      "IC SNGL AND"                  
+SN74LVC1G08x2 ""          TopLayer AND_gate             6426.000      3733.750      270      "IC SNGL AND"                  
+SN74LVC1G08x1 ""          TopLayer AND_gate             6426.000      3913.750      270      "IC SNGL AND"                  
+MC14028B      MC14028B    TopLayer decoder              5746.063      4615.000      0        Decoder                        
+CD4043BDG4    CD4043BDG4  TopLayer SR_latch_-_duplicate 5711.615      4035.827      90       "IC NOR R/S LATCH"             
+74HC595       74HC595     TopLayer shift_register       6231.607      4615.000      360      "shift register"               
